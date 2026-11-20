@@ -1,0 +1,44 @@
+*{box-sizing:border-box}html,body{width:100%;height:100%;margin:0;overflow:hidden;background:#08172d;font-family:Arial,sans-serif}button,a{-webkit-tap-highlight-color:transparent}button{font:inherit;cursor:pointer}button:focus-visible,a:focus-visible,article:focus-visible{outline:5px solid #21c0da;outline-offset:4px}button:disabled{cursor:default}#viewport{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%)}#stage{position:absolute;width:1080px;height:1920px;transform-origin:top left;overflow:hidden;background:#102d58}.art{position:absolute;inset:0;width:1080px;height:1920px;pointer-events:none;user-select:none}.hit{position:absolute;border:0;background:transparent;border-radius:24px;color:transparent}.hit:disabled{background:#102d5866}.question{position:absolute;left:70px;top:183px;width:940px;height:225px;margin:0;background:transparent;color:white;font-weight:700;font-size:35px;line-height:1.26;display:block}.progress{position:absolute;right:70px;top:57px;background:transparent;color:#b3c8e1;font-size:25px;padding:7px 0 7px 22px}canvas{position:absolute;left:140px;top:610px;width:800px;height:880px;touch-action:none;cursor:crosshair;user-select:none}.reveal{position:absolute;inset:0;background:#071a36e8;display:flex;align-items:center;justify-content:center;z-index:5}.reveal-card{width:880px;padding:70px;border-radius:38px;background:white;text-align:center;box-shadow:0 25px 100px #0005}.reveal h1{font-size:42px;color:#102d58;margin:0 0 50px}.reveal img{width:600px;height:310px;object-fit:contain;display:block;margin:0 auto 60px}.primary{width:100%;min-height:112px;background:#ffed00;color:#102d58;border:0;border-radius:24px;font-size:32px;font-weight:700}.tabs{position:absolute;left:70px;top:450px;width:940px;height:74px;display:flex;gap:10px;background:transparent}.tabs button{flex:1;min-width:0;border:0;border-radius:18px;background:#244876;color:white;font-size:21px;font-weight:700}.tabs button[aria-selected=true]{background:#ffed00;color:#102d58}.leaflet-panel{position:absolute;left:70px;top:560px;width:940px;height:1025px;border-radius:26px;background:white;padding:40px 45px;color:#102d58}.leaflet-header{height:160px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #e2e9f1;margin-bottom:24px}.leaflet-header img{width:260px;height:130px;object-fit:contain}.leaflet-header a{font-size:22px;color:#1d4078;padding:20px 0}#leaflet-content{height:690px;overflow:auto;overscroll-behavior:contain;touch-action:pan-y;padding:0 30px 24px 0;font-size:29px;line-height:1.5;overflow-wrap:break-word;scrollbar-color:#1d4078 #edf2f7}#leaflet-content p{margin:0}#leaflet-content h2{font-size:38px}#leaflet-status{border-top:1px solid #e2e9f1;margin-top:18px;padding-top:17px;color:#61748a;font-size:22px;text-align:center}#leaflet-content::-webkit-scrollbar{width:13px}#leaflet-content::-webkit-scrollbar-track{background:#edf2f7}#leaflet-content::-webkit-scrollbar-thumb{background:#1d4078;border-radius:8px}
+
+/* Short entrances; drawing coordinates and the canvas remain stationary. */
+.art{animation:screen-in .35s ease-out both}
+.question,.progress{animation:screen-in .3s ease-out both}
+.leaflet-panel{animation:panel-in .35s cubic-bezier(.2,.8,.2,1) both}
+.reveal{animation:screen-in .2s ease-out both}
+.reveal-card{animation:card-in .5s cubic-bezier(.16,1,.3,1) both}
+.reveal img{animation:logo-in .6s cubic-bezier(.2,.9,.2,1.15) .1s both}
+.primary{transition:transform .15s ease,box-shadow .15s ease}
+.primary:active{transform:scale(.97)}
+.hit{overflow:hidden;transition:box-shadow .15s ease,background-color .15s ease}
+.hit:not(:disabled):active{background:#ffffff20;box-shadow:inset 0 0 0 4px #ffffff50}
+#stage[data-screen="home"] .hit[aria-label="Começar"]::after{content:"";position:absolute;top:-30%;left:-65%;width:45%;height:160%;background:linear-gradient(100deg,transparent,#ffffff75,transparent);transform:skewX(-20deg);pointer-events:none;animation:button-shine 3.5s ease-in-out 1s 3}
+.confetti{position:absolute;inset:0;overflow:hidden;pointer-events:none;z-index:10}
+.confetti i{position:absolute;left:var(--x);top:-35px;width:12px;height:24px;border-radius:3px;animation:confetti-fall var(--duration) cubic-bezier(.15,.55,.55,1) var(--delay) both}
+@keyframes screen-in{from{opacity:0}to{opacity:1}}
+@keyframes panel-in{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+@keyframes card-in{from{opacity:0;transform:translateY(45px) scale(.95)}to{opacity:1;transform:translateY(0) scale(1)}}
+@keyframes logo-in{from{opacity:0;transform:scale(.8)}to{opacity:1;transform:scale(1)}}
+@keyframes button-shine{0%,15%{left:-65%}45%,100%{left:135%}}
+@keyframes confetti-fall{0%{opacity:0;transform:translate3d(0,0,0) rotate(0)}8%,70%{opacity:.85}100%{opacity:0;transform:translate3d(var(--drift),1850px,0) rotate(var(--turn))}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}.confetti{display:none}}
+
+.leaflet-zoom{display:flex;align-items:center;gap:15px;height:70px;padding-bottom:14px;color:#61748a;font-size:23px}.leaflet-zoom[hidden]{display:none}.leaflet-zoom span:first-child{margin-right:auto}.leaflet-zoom button{border:0;background:#e6eff8;color:#102d58;border-radius:12px;width:60px;height:50px;font-size:32px}.leaflet-zoom button:disabled{opacity:.35}#leaflet-content.document-pages{height:620px;padding-right:18px;touch-action:pan-x pan-y}.leaflet-pages{width:100%}.leaflet-pages figure{margin:0 0 24px}.leaflet-pages img{display:block;width:100%;height:auto}.leaflet-pages figcaption{font-size:21px;background:#edf2f7;color:#61748a;padding:10px 16px}
+
+/* Persistent operator control, outside the changing game stage. */
+#exit-app{position:absolute;right:0;bottom:0;width:12%;height:6%;z-index:100;opacity:0;border:0;padding:0;touch-action:manipulation}
+#stage[data-screen="home"] + #exit-app{height:3.5%}
+.hit.home-references{background:#22446d;color:white;font-size:31px;font-weight:700}
+.hit.home-references:not(:disabled):active{background:#315680}
+#leaflet-content,#leaflet-content.document-pages{touch-action:none;user-select:none;-webkit-user-select:none;cursor:grab}
+#leaflet-content.dragging{cursor:grabbing}
+#leaflet-content img{-webkit-user-drag:none}
+
+.reference-marker{font-size:.6em;line-height:0;margin-left:8px;white-space:nowrap}
+.references-panel{position:absolute;left:70px;top:560px;width:940px;height:1025px;padding:45px;border-radius:26px;background:white;color:#102d58;user-select:none}
+#reference-content{height:865px;overflow:auto;overscroll-behavior:contain;touch-action:none;user-select:none;-webkit-user-select:none;cursor:grab;padding:0 25px 24px 0;scrollbar-color:#1d4078 #edf2f7;overflow-wrap:break-word}
+#reference-content.dragging{cursor:grabbing}
+.references-panel ol{margin:0;padding-left:42px;font-size:29px;line-height:1.5}
+.references-panel li{padding-left:12px;margin-bottom:30px}
+.reference-notes{border-top:1px solid #e2e9f1;padding-top:20px;font-size:27px;line-height:1.5}
+.reference-notes p{margin:0 0 24px}
+.reference-status{border-top:1px solid #e2e9f1;margin-top:18px;padding-top:17px;color:#61748a;font-size:22px;text-align:center}

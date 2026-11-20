@@ -1,0 +1,58 @@
+{
+  "name": "eurofarma-receituario",
+  "version": "1.0.8",
+  "description": "Game offline de receituario Eurofarma",
+  "author": "Eurofarma",
+  "private": true,
+  "main": "main.cjs",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --win portable --x64",
+    "pack": "electron-builder --win --dir --x64"
+  },
+  "devDependencies": {
+    "electron": "45.3.3",
+    "electron-builder": "26.18.0"
+  },
+  "build": {
+    "appId": "br.com.eurofarma.receituario",
+    "productName": "Eurofarma Receituario",
+    "asar": true,
+    "directories": {
+      "output": "dist",
+      "buildResources": "build"
+    },
+    "files": [
+      "main.cjs",
+      "package.json",
+      "build/icon.ico",
+      "preload.cjs"
+    ],
+    "extraResources": [
+      {
+        "from": "../../game-offline",
+        "to": "game",
+        "filter": [
+          "**/*"
+        ]
+      }
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "build/icon.ico",
+      "signAndEditExecutable": true,
+      "artifactName": "Eurofarma-Receituario-${version}-Windows-x64.exe"
+    },
+    "portable": {
+      "requestExecutionLevel": "user"
+    },
+    "compression": "normal"
+  }
+}

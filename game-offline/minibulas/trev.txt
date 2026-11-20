@@ -1,0 +1,566 @@
+       TREV
+
+      tegoprazana
+
+
+Bula para profissional da saúde
+
+    Comprimido revestido
+
+          50 mg
+
+ IDENTIFICAÇÃO DO MEDICAMENTO
+
+
+                               TREV
+                                               tegoprazana
+
+
+ APRESENTAÇÃO
+ Comprimido revestido 50 mg: embalagens contendo 7, 14 e 28 comprimidos
+
+
+USO ORAL
+
+USO ADULTO
+
+COMPOSIÇÃO
+
+Cada              comprimido                 revestido               contém:
+tegoprazana ................................................................................................................................. 50 mg
+Excipientes* q.s.p ........................................................................................................... 1 comprimido
+*Excipientes: manitol, celulose microcristalina, croscarmelose sódica, hiprolose, dióxido de silício, estearato de magnésio,
+álcool polivinílico, dióxido de titânio, talco, macrogol e óxido de ferro vermelho.
+
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+
+1. INDICAÇÕES
+TREV 50 mg é indicado para:
+  •  Tratamento de doença do refluxo gastroesofágico erosiva (DRGE);
+  •  Tratamento de doença do refluxo gastroesofágico não erosiva (DRGE NE);
+  •  Tratamento de úlcera gástrica;
+
+2. RESULTADOS DE EFICÁCIA
+Os estudos clínicos de fase III descritos nesta seção foram conduzidos em pacientes coreanos.
+
+Doença do Refluxo Gastroesofágico Erosiva
+Um estudo de fase 3 randomizado, duplo-cego, comparativo com controle ativo foi conduzido em 302 pacientes com doença
+do refluxo gastroesofágico erosiva (DRGE) para avaliar TREV 50 mg, 100 mg ou esomeprazol 40 mg por até 8 semanas. A
+taxa de cicatrização cumulativa na semana 8 foi de 98,91% (91 pacientes/92 pacientes), 98,90% (90 pacientes/91 pacientes)
+e 98,86% (87 pacientes/88 pacientes), respectivamente, nos grupos de tratamento com TREV 50 mg, 100 mg e esomeprazol
+40 mg, demonstrando não inferioridade (Tabela 1).
+
+Tabela 1. Taxa cumulativa de cicatrização de doença do refluxo gastroesofágico erosiva na semana 8
+                                         TREV                         Esomeprazol
+                                           50 mg              100 mg                40 mg
+               PPS                      N=92              N=91               N=88
+     Taxa de cura de DRGE [%(N)]            98,91 (91)             98,90 (90)              98,86 (87)
+                Diferença                          0,05                    0,04
+       Intervalo de confiança de 95%              [-3,02; 3,11]             [-3,04; 3,12]
+              Valor de p*                     <0,0001              <0,0001
+* Margem de não inferioridade -10%, nível de significância 0,025 (teste unilateral), PPS: Per Protocol Set (Conjunto
+Conforme o Protocolo).
+
+Doença do Refluxo Gastroesofágico Não Erosiva
+Um estudo de fase 3 randomizado, duplo-cego, controlado por placebo foi conduzido em 324 pacientes com doença do
+refluxo gastroesofágico não erosiva (DRGE NE) para avaliar TREV 50 mg, 100 mg ou placebo por 4 semanas. A taxa de
+pacientes com resolução completa dos principais sintomas, como pirose e refluxo de ácido gástrico, na semana 4 foi de
+42,45% (45  pacientes/106  pacientes), 48,48% (48  pacientes/99  pacientes), 24,24% (24  pacientes/99  pacientes),
+respectivamente, no grupo de tratamento de TREV 50 mg, 100 mg e placebo, demonstrando superioridade (Tabela 2).
+
+
+
+
+
+Bula_Profissional_tegoprazana_com_rev
+
+Tabela 2. Porcentagens de pacientes com doença do refluxo gastroesofágico erosivaque apresentaram resolução
+completa dos principais sintomas na semana 4 de tratamento
+
+                                                TREV
+                                                                                                      Placebo
+                                                 50 mg                    100 mg
+               FAS                         N=106                  N=99           N=99
+                                                                                                       24,24
+       Resolução dos sintomas [%(N)]                42,45 (45)                   48,48 (48)                                                                                                                   (24)
+                Valor de p*                           0,0058                      0,0004                     -
+* Teste qui-quadrado, nível de significância 0,05 (teste bilateral), FAS: Full Analysis Set (Conjunto de Análise Completa).
+
+Úlcera gástrica
+Um estudo de fase 3 randomizado, duplo-cego, comparativo com controle ativo foi conduzido em 306 pacientes com úlcera
+gástrica (UG) para avaliar TREV 50 mg, 100 mg ou lansoprazol 30 mg por até 8 semanas. A taxa de cicatrização cumulativa
+na semana 8 foi de 100,00% (88 pacientes/88 pacientes), 97,85% (91 pacientes/93 pacientes) e 100,00% (85 pacientes/85
+pacientes), respectivamente, nos grupos de tratamento com TREV 50 mg, 100 mg e 30 mg de lansoprazol, demonstrando
+não inferioridade (Tabela 3).
+
+Tabela 3. Taxa cumulativa de cicatrização de úlcera gástrica na semana 8
+
+                                   TREV                                 Lansoprazol
+                                  50 mg                 100 mg                    30 mg
+          PPS             N = 88                N=93                   N=85
+  Taxa de cura UG [% (N)]          100,00 (88)                97,85 (91)                  100,00 (85)
+  Diferença com intervalo de
+                                         0,00                 -2,15 [-7,66; 2,43]
+      confiança de 95%
+         Valor de p*                                          <0,0001
+* Margem de não inferioridade -8,54%, nível de significância 0,025 (teste unilateral), PPS: Per Protocol Set (Conjunto
+Conforme o Protocolo).
+
+
+Referências bibliográficas
+
+
+
+
+
+Bula_Profissional_tegoprazana_com_rev
+
+     1.  Lee KJ, Son BK, Kim GH, et al. Randomised phase 3 trial: tegoprazan, a novel potassium-competitive acid
+         blocker, vs. esomeprazole in patients with erosive oesophagitis. Aliment Pharmacol Ther. 2019 Apr;49(7):864-
+         872.
+     2.  Kim SH, Cho KB, Chun HJ, et al. Randomised clinical trial: comparison of tegoprazan and placebo in non-erosive
+         reflux disease. Aliment Pharmacol Ther. 2021 Aug;54(4):402-411.
+     3.  Cho YK, Choi MG, Choi SC, et al. Randomised clinical trial: tegoprazan, a novel potassium-competitive acid
+         blocker, or lansoprazole in the treatment of gastric ulcer. Aliment Pharmacol Ther. 2020 Sep;52(5):789-797.
+
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+
+Propriedades farmacodinâmicas
+A tegoprazana é um bloqueador de ácido competitivo com potássio (P-CAB: Potassium-Competitive Acid Blockers) que
+bloqueia a secreção de ácido gástrico por meio da ligação competitiva com o potássio nas bombas de prótons (H+/K+-
+ATPase) presentes nas células da parede gástrica. A tegoprazana apresenta uma ligação dependente da concentração,
+bloqueando a secreção de ácido gástrico de forma eficaz e reversível. A inibição da bomba de prótons pela tegoprazana é
+realizada diretamente, não demandando a ativação prévia pelo ácido.
+Após doses únicas e múltiplas orais de 50 mg e 100 mg de tegoprazana em indivíduos saudáveis, foram observados efeitos
+inibitórios rápidos e potentes na secreção de ácido gástrico desde a primeira dose. O pH intragástrico acima de 4 foi
+alcançado em até 1 hora. O tempo de manutenção do pH acima de 4 durante 24 horas após dose única de 50 mg e 100 mg
+de tegoprazana foi de 55,07% e 68,38%, respectivamente. Após sete dias de doses múltiplas com 50 mg e 100 mg de
+tegoprazana, o tempo de manutenção do pH acima de 4 durante 24 horas foi de 58,35% e 66,55%, respectivamente.
+
+Propriedades farmacocinéticas
+As propriedades farmacocinéticas da tegoprazana foram avaliadas em adultos saudáveis em estudos de fase I que incluíram
+participantes coreanos e não coreanos. A população não coreana incluiu participantes avaliados em estudos conduzidos nos
+Estados Unidos, Japão, México e Índia.
+Os parâmetros farmacocinéticos observados após a administração de uma dose única de 50 mg de tegoprazana nas
+populações coreana e não coreana são apresentados na tabela a seguir.
+
+Tabela 5. Parâmetros farmacocinéticos após dose única de tegoprazana 50 mg em adultos saudáveis coreanos e não
+coreanos
+                      Número de participantes   ASC   após   50   mg,   Cmax  após  50  mg,
+ População estudada
+                          por coorte               ng·h/mL               ng/mL
+ Coreanos                 6–12                        2.603,4–2.984,7             669,9–826,7
+ Não coreanos             6–20                        2.222,7–3.665,4             465,2–884,6
+
+Os valores representam as faixas dos estimadores centrais reportados nos respectivos estudos após administração de dose única de
+tegoprazana 50 mg, e não os valores mínimos e máximos individuais dos participantes. Os resultados foram apresentados nos relatórios-
+fonte como média geométrica e coeficiente de variação geométrico ou como média aritmética e desvio-padrão. Para os estudos coreanos,
+os valores de ASC representam ASC0–24. Para os estudos não coreanos, os valores de ASC representam ASC0–24 ou ASC0–t, conforme
+reportado no respectivo estudo-fonte. Os valores não foram derivados de uma análise farmacocinética agrupada formal. As comparações
+entre estudos são descritivas e devem considerar diferenças de desenho, tamanho das coortes, condução dos estudos, formulação e
+apresentação estatística.
+
+Os parâmetros farmacocinéticos apresentaram variabilidade entre os estudos, sem tendência consistente relacionada à população
+estudada. Considerando os dados farmacocinéticos e farmacodinâmicos disponíveis na dose terapêutica de 50 mg, as diferenças
+numéricas observadas não foram consideradas clinicamente relevantes para a posologia proposta.
+
+Fatores étnicos
+Foi realizada uma avaliação de sensibilidade étnica com base nos princípios do ICH E5(R1) (Conferência Internacional de
+Harmonização) considerando as características farmacológicas e metabólicas da tegoprazana e os dados farmacocinéticos e
+farmacodinâmicos disponíveis em diferentes populações. Não foi identificado padrão consistente de alteração da exposição
+ou do efeito de supressão ácida relacionado à população estudada. Os dados disponíveis não indicam necessidade de ajuste
+posológico com base em etnia ou população.
+
+Absorção
+O tempo necessário para alcançar a concentração máxima (Tmax) após administração oral de tegoprazana em dose única em
+adultos saudáveis variou de 0,5 a 1,5 horas nas doses testadas de 50 a 400 mg. Após administração de dose única, os valores
+médios da concentração plasmática máxima (Cmax) e da área sob a curva (ASC), que representa a extensão da absorção,
+demonstraram um aumento proporcional à dose dentro da faixa de doses administradas. Após 7 dias de administração
+repetida, os valores médios de Cmax de cada grupo de dose foram semelhantes ou ligeiramente reduzidos em comparação
+com aqueles observados após a administração única.
+Os efeitos dos alimentos na biodisponibilidade da tegoprazana foram avaliados em adultos saudáveis após a administração
+
+Bula_Profissional_tegoprazana_com_rev
+
+oral de 200 mg, tanto em jejum quanto após as refeições. Observou-se uma tendência de atraso no Tmax e uma redução no
+Cmax após a ingestão de alimentos. No entanto, não houve diferença significativa na ASC0-infinito (área sob a curva até o
+infinito) nem no parâmetro farmacodinâmico (tempo de manutenção da acidez intragástrica acima de pH 4).
+Os efeitos dos alimentos na biodisponibilidade da tegoprazana foram avaliados em adultos saudáveis após a administração
+oral de 50 mg em três condições: em jejum, antes das refeições e após as refeições. Embora tenha sido observada uma
+tendência de atraso no Tmax e redução no Cmax após a ingestão de alimentos, não houve diferença significativa na ASC0-infinito
+nem no tempo de manutenção da acidez intragástrica acima de pH 4.
+
+Distribuição
+A proporção in vitro de tegoprazana não ligada às proteínas plasmáticas humanas foi de 8,7 a 9,0% na faixa de concentração
+de 1 a 10 μM.
+
+Biotransformação e Eliminação
+A tegoprazana é metabolizada principalmente pela CYP3A4. O principal metabólito é o metabólito M1 (metabólito
+desalquilado).
+Após administração intravenosa da tegoprazana em ratos e cães, menos de 1% da tegoprazana inalterada foi excretada na
+urina.
+Após administração oral de tegoprazana radiomarcada com carbono-14 (14C) a ratos, a recuperação total da radioatividade
+em até 168 horas (da dosagem) foi de 93% e 97% na fêmea e no macho, respectivamente. Uma faixa de 22% a 24% da
+radioatividade total foi excretada na urina e 65% a 69% foi eliminada nas fezes em ratos fêmeas e machos.
+Após administração oral a ratos submetidos à canulação biliar, 41,4% da radioatividade foi recuperada na bile, 25,7% na
+urina e 28,4% nas fezes, correspondendo a uma recuperação total de 97,7%. Menos de 1% da tegoprazana inalterada foi
+recuperada na bile e na urina, enquanto aproximadamente 15% foi recuperada nas fezes. Aproxidamadamente 6% do
+metabólito M1 foi recuperado nas fezes.
+Após a administração da tegoprazana a indivíduos saudáveis do sexo masculino, as meias-vidas de eliminação plasmática
+da tegoprazana inalterada e do metabólito M1 foram de 4,1 horas e 22,8 horas, respectivamente. A taxa de excreção urinária
+da tegoprazana inalterada foi de aproximadamente 4,1% e a depuração foi de 1,1 L/h. A taxa de excreção urinária do principal
+metabólito M1 foi de aproximadamente 2,3% e sua depuração foi de 0,5 L/h.
+
+Dados de segurança não-clínicos
+Estudos de toxicidade reprodutiva
+Não foram observados efeitos de tegoprazana na fertilidade e no desenvolvimento embrionário inicial até uma dose máxima
+de 500 mg/kg/dia. Como resultado dos estudos de desenvolvimento embriofetal, foi observada maior incidência de costelas
+cervicais supernumerárias curtas em ratos. O NOAEL (Nível sem Efeito Adverso Observado) para as ratas maternas foi
+determinado em 500 mg/kg/dia, que corresponde a 369 vezes a ASC da dose recomendada em humanos, e o NOEL para
+embriões e fetos foi determinado em 20 mg/kg/dia, que corresponde a 15,6 vezes a ASC da dose recomendada em humanos.
+Não houve efeitos no desenvolvimento fetal, apesar dos abortos e perda de peso no grupo de coelhos que tomou a dose
+máxima (10 mg/kg/dia). O NOAEL para coelhas maternas foi determinado em 5 mg/kg/dia, que corresponde a 2 vezes a
+ASC da dose recomendada em humanos, e o NOAEL para embriões e fetos foi determinado em 10 mg/kg/dia, que
+corresponde a 4,8 vezes a ASC da dose recomendada em humanos.
+Em um estudo de desenvolvimento pré e pós-natal, bem como de função materna em ratos, a tegoprazana e seu metabólito
+M1 foram detectados no leite materno. O NOAEL foi determinado em 20 mg/kg/dia, o que representa 8 vezes a ASC (da
+dose recomendada para humanos). A diminuição na taxa de sobrevivência dos filhotes foi observada a partir da dose de 60
+mg/kg/dia, a dose máxima testada.
+
+Mutagenicidade
+A tegoprazana apresentou resultado negativo no teste de mutação reversa bacteriana usando Salmonella e E. coli. A
+tegoprazana apresentou resultado positivo no teste de aberração cromossômica de células CHL, mas negativo no teste in
+vivo de micronúcleo usando células da medula óssea de rato, não induzindo a formação de micronúcleos.
+
+Carcinogenicidade
+Em um estudo de carcinogenicidade de dois anos em ratos foram observados tumores de celulasneuroendócrinas gástricas
+em machos que receberam 15 mg/kg/dia e em fêmeas que receberam 6 mg/kg/dia, correspondendo a aproximadamente 5,3
+e 7,3 vezes a exposição sistêmica observada na dose humana recomendada, respectivamente. Esses achados foram
+considerados relacionados à hiper gastrinemia persistente e à estimulação das células enterocromafins, e sua relevância para
+humanos é considerada baixa.
+
+4. CONTRAINDICAÇÕES
+Este medicamento é contraindicado em casos de hipersensibilidade conhecida a tegoprazana, a qualquer um dos
+componentes da fórmula do produto ou benzimidazóis substituídos.
+Este medicamento é contraindicado em pacientes que tomam atazanavir, nelfinavir ou produtos contendo rilpivirina (vide
+6. INTERAÇÕES MEDICAMENTOSAS).
+
+
+Bula_Profissional_tegoprazana_com_rev
+
+Este medicamento é contraindicado para pacientes pediátricos.
+
+5. ADVERTÊNCIAS E PRECAUÇÕES
+O paciente deve ser monitorado regularmente quando tratado com tegoprazana por longo prazo.
+
+Mascaramento dos sintomas associados à malignidade gástrica: Na presença de qualquer sintoma de alarme (por
+exemplo, perda de peso não intencional significativa, vômitos recorrentes, disfagia, hematêmese ou melena) ou quando
+houver suspeita de úlcera gástrica, deve-se excluir a possibilidade de malignidade gástrica, pois o tratamento com
+tegoprazana pode aliviar os sintomas e retardar o diagnóstico. A melhora sintomática com TREV não exclui a presença de
+malignidade gástrica.
+Pólipo gástrico foi observado com o uso prolongado de P-CABs e tegoprazana.
+
+Deficiência de cianocobalamina (vitamina B12): O tratamento diário com qualquer medicamento supressor de ácido por
+um longo período de tempo (por exemplo, mais de 3 anos) pode levar à má absorção de cianocobalamina (vitamina B12)
+causada por hipo ou acloridria. Existem relatos na literatura de deficiência de cianocobalamina associada a terapia
+supressora de ácido. Esse diagnóstico deve ser considerado se forem observados sintomas clínicos consistentes com
+deficiência de cianocobalamina.
+
+Fratura óssea: Vários estudos observacionais publicados sugerem que a terapia com inibidor da bomba de prótons (IBP)
+pode estar associada a um risco aumentado de fraturas relacionadas à osteoporose do quadril, punho ou coluna. O risco de
+fratura foi aumentado em pacientes que receberam terapia de alta dose (definida como doses diárias múltiplas) de IBP e
+em longo prazo (um ano ou mais). Os pacientes devem usar a dose apropriada e a duração mais curta da terapia com
+tegoprazana apropriada para a condição a ser tratada. Pacientes com risco de fraturas relacionadas à osteoporose devem ser
+tratados de acordo com as diretrizes de tratamento estabelecidas.
+
+Hipomagnesemia: A hipomagnesemia foi relatada raramente em pacientes tratados com IBPs por pelo menos três meses,
+na maioria dos casos após um ano de terapia. Na maioria dos pacientes, o tratamento da hipomagnesemia exigiu reposição
+de magnésio e descontinuação do IBP. Para pacientes que devem estar em tratamento prolongado ou que tomam
+tegoprazana com medicamentos como digoxina ou medicamentos que podem causar hipomagnesemia (por exemplo,
+diuréticos), os profissionais de saúde devem considerar o monitoramento dos níveis de magnésio antes do início do
+tratamento e periodicamente. As reações adversas graves incluem tetania, arritmias e convulsões.
+
+Infecções gastrointestinais causadas por C. difficile ou outros patógenos: A diminuição da acidez gástrica devido aos
+IBPs aumenta a contagem de bactérias normalmente presentes no trato gastrointestinal. O tratamento com supressores de
+ácido gástrico pode aumentar o risco de infecções gastrointestinais, como Salmonella, Campylobacter e Clostridium
+difficile. Estudos observacionais publicados sugerem que a terapia com IBP pode estar associada a um risco aumentado de
+diarreia associada a C. difficile (CDAD), especialmente em pacientes hospitalizados. Este diagnóstico deve ser considerado
+nos casos de diarreia que não melhoram. CDAD foi relatada com o uso de quase todos os agentes antibacterianos. Os
+pacientes devem usar a dose mais baixa, além da duração mais curta da terapia com tegoprazana apropriada para a condição
+a ser tratada.
+
+Pólipos em glândulas fúndicas: O risco de pólipos em glândulas fúndicas aumenta com o uso prolongado de IBPs,
+especialmente por mais de um ano. Os pólipos em glândulas fúndicas são normalmente assintomáticos. Os pacientes devem
+usar a dose mais baixa, além da duração mais curta da terapia com IBP ou tegoprazana apropriada para a condição a ser
+tratada.
+
+Gravidez
+Não há dados de segurança para a exposição à tegoprazana em mulheres grávidas.
+Em um estudo de desenvolvimento embriofetal, após a exposição de ratas prenhes a 369 vezes da exposição (ASC) da dose
+de tegoprazana recomendada para humanos, foi observada maior incidência de costelas cervicais supernumerárias curtas em
+ratos (vide 3. CARACTERÍSTICAS FARMACOLÓGICAS - Dados de segurança não-clínicos). Como precaução, TREV
+não deve ser administrado a mulheres grávidas, a menos que o médico determine, após uma avaliação cuidadosa dos riscos
+e benefícios, que o benefício esperado para a mãe justifique o risco potencial para o feto.
+Categoria C de risco na gravidez
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista
+
+Dados em animais
+Toxicidade reprodutiva, teratogenicidade e carcinogenicidade
+Para dados em animais sobre toxicidade reprodutiva, teratogenicidade e carcinogenicidade vide 3. CARACTERÍSTICAS
+FARMACOLÓGICAS - Dados de segurança não-clínicos.
+
+Lactação
+Não há dados de segurança para a exposição à tegoprazana em lactantes.
+
+Bula_Profissional_tegoprazana_com_rev
+
+  Foi relatada excreção de tegoprazana no leite de ratas. Como não se sabe se a tegoprazana é excretada no leite humano e
+  não há dados de segurança de exposição a lactentes, este medicamento é contraindicado durante a amamentação, a menos
+  que o médico determine, após uma avaliação cuidadosa dos riscos e benefícios, que o benefício esperado para a mãe
+  justifique o risco potencial para o feto..
+ O uso deste medicamento no período da lactação depende da avaliação e acompanhamento do seu médico ou
+  cirurgião-dentista.
+
+Fertilidade
+ Não há dados disponíveis em humanos sobre o efeito da tegoprazana na fertilidade. Em um estudo realizado em ratos, não
+  foram observados efeitos no acasalamento ou na fertilidade após a administração oral de tegoprazana a ratos machos/fêmeas
+  na dose de até 500 mg/kg/dia (vide 3. CARACTERÍSTICAS FARMACOLÓGICAS – Dados de segurança pré-clínica).
+
+  Efeitos sobre a habilidade de dirigir veículos e/ou operar máquinas
+ Não foram realizados estudos sobre os efeitos do uso de TREV na habilidade de dirigir e usar máquinas, e a perda dessa
+  capacidade não pode ser prevista a partir de sua ação farmacológica. No entanto, ao considerar a capacidade do paciente de
+  dirigir e usar máquinas, a condição clínica do paciente e as reações adversas do medicamento devem ser consideradas.
+
+  Populações especiais
+  Pacientes pediátricos
+ A segurança clínica e a eficácia do TREV em pacientes pediátricos e adolescentes não foram estabelecidas.
+
+  Pacientes idosos
+ Em geral, TREV deve ser administrado aos pacientes idosos com cautela, considerando a maior frequência de diminuição
+  das funções fisiológicas, como fígado ou rim nesses pacientes.
+
+  Pacientes com insuficiência renal
+ A segurança clínica e a eficácia do TREV em pacientes com insuficiência renal não foram estabelecidas. Não há dados
+  sobre pacientes com insuficiência renal.
+
+  Pacientes com insuficiência hepática
+ A segurança clínica e a eficácia do TREV em pacientes com insuficiência hepática não foram estabelecidas. Não há dados
+  sobre pacientes com insuficiência hepática.
+
+  Atenção: Contém os corantes dióxido de titânio e óxido de ferro vermelho.
+
+  6. INTERAÇÕES MEDICAMENTOSAS
+  Efeitos da tegoprazana em outros medicamentos
+  Estudos in vitro demonstraram inibição competitiva das enzimas CYP2C8 e CYP3A4 pela tegoprazana . Entretanto, os
+  valores de IC50 foram aproximadamente 25 vezes maiores do que a concentração plasmática máxima da dose humana
+  recomendada. A atividade inibitória da tegoprazana sobre o OATP1B1 varia dependendo dos substratos. Espera-se que as
+  concentrações plasmáticas de alguns fármacos, que são substratos do OATP1B1, possam estar ligeiramente aumentadas,
+  considerando a Cmax nas doses clínicas.
+ Como resultado da administração concomitante de tegoprazana com metronidazol, tetraciclina e bismuto em adultos
+  saudáveis, em comparação com a administração desses mesmos fármacos sem a tegoprazana, observou-se que a
+  farmacocinética do metronidazol não foi alterada. A ASC0-6 da tetraciclina diminuiu em 0,62 vezes, enquanto o Css,max da
+  tetraciclina reduziu em 0,64 vezes. A ASC0-6 do bismuto aumentou em 1,55 vezes, e o Css,max do bismuto aumentou em 1,38
+  vezes. No entanto, não foram observadas reações adversas clinicamente significativas ou eventos adversos relacionados aos
+  medicamentos.
+
+ Medicamentos dependentes do pH gástrico para absorção
+  Devido aos seus efeitos na secreção de ácido gástrico, a tegoprazana pode reduzir a absorção de medicamentos em que o
+ pH gástrico é um determinante importante de sua biodisponibilidade. Tal como acontece com outros fármacos que
+ diminuem a acidez intragástrica, a absorção de fármacos como cetoconazol, itraconazol, ampicilina, atazanavir, sais de
+  ferro, erlotinibe, gefitinibe e micofenolato de mofetil pode diminuir durante o tratamento com a tegoprazana. Por outro
+  lado, a absorção de medicamentos como a digoxina pode aumentar durante o tratamento com a tegoprazana.
+ Uma vez que a tegoprazana inibe a secreção de ácido gástrico, espera-se que a administração concomitante de atazanavir,
+  nelfinavir e rilpivirina com tegoprazana diminua a concentração plasmática desses fármacos, que dependem do pH gástrico
+  para absorção, podendo resultar numa perda do efeito terapêutico. Portanto, o uso concomitante de atazanavir, nelfinavir e
+  rilpivirina com a tegoprazana é contraindicado.
+
+ Medicamentos que inibem ou induzem o CYP3A4
+ A tegoprazana é metabolizada principalmente pela CYP3A4. A administração concomitante de tegoprazana com indutores
+  fortes ou moderados da CYP3A4 pode reduzir a exposição sistêmica à tegoprazana e potencialmente reduzir seu efeito
+  Bula_Profissional_tegoprazana_com_rev
+
+terapêutico. O uso concomitante deve ser evitado ou cuidadosamente avaliado.
+
+Claritromicina
+O uso concomitante de claritromicina, um inibidor do CYP3A4, com a tegoprazana aumentou a ASCτ da tegoprazana e da
+claritromicina em 2,5 vezes e 1,25 vezes, respectivamente.
+
+Amoxicilina
+A tegoprazana demonstrou não ter efeitos nos perfis farmacocinéticos da amoxicilina.
+
+Atorvastatina
+A tegoprazana demonstrou não ter efeitos nos perfis farmacocinéticos da atorvastatina.
+
+AINEs
+O uso concomitante de tegoprazana e AINEs (naproxeno, aceclofenaco ou celecoxibe) não demonstrou efeitos clinicamente
+significativos nos perfis farmacocinéticos.
+
+Efeitos de outros medicamentos na tegoprazana
+Medicamentos que inibem o CYP3A4
+A tegoprazana é metabolizada no fígado pela CYP3A4. Estudos in vitro demonstraram que cetoconazol, um potente inibidor
+da CYP3A4, reduziu significativamente o metabolismo da tegoprazana. Em contraste, os inibidores das enzimas CYP1A2,
+CYP2C9, CYP2C19 e CYP2D6 não apresentaram efeito significativo sobre o metabolismo da tegoprazana. Assim, o uso
+concomitante de tegoprazana com inibidores da CYP3A4 pode levar a um aumento na exposição à tegoprazana.
+
+Medicamentos que inibem a P-gp
+A tegoprazana é um substrato da P-gp. Estudos in vitro mostraram que a taxa de efluxo da tegoprazana foi diminuída pelo
+verapamil, um inibidor da P-gp. A administração concomitante da tegoprazana e inibidores da P-gp pode resultar em um
+aumento da exposição ao aumentar a absorção gastrointestinal da tegoprazana.
+
+Claritromicina
+Em indivíduos adultos saudáveis, a administração concomitante da tegoprazana com claritromicina, substrato e inibidore
+do CYP3A4 e P-gp resultou num aumento da Css,max e ASCτ da tegoprazana em 1,65 vezes e 2,5 vezes, respectivamente.
+A ASCτ da claritromicina aumentou ligeiramente em 1,25 vezes e não houve aumento significativo de Css,max. Não foram
+observados eventos adversos ou reações adversas medicamentosas clinicamente significativos.
+
+Outros medicamentos
+Em indivíduos adultos saudáveis, a administração concomitante da tegoprazana com metronidazol, tetraciclina e bismuto
+resultou em uma diminuição da ASC0-12 e Css,max da tegoprazana em 0,78 vezes e 0,75 vezes, respectivamente, e a ASC0-12
+do metabólito M1 da tegoprazana diminuiu 0,77 vezes e Css,max em 0,84 vezes, em comparação com quando a tegoprazana
+foi administrada isoladamente. No entanto, não foram observados eventos adversos ou reações adversas medicamentosas
+clinicamente significativos.
+
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Armazenar em temperatura ambiente (de 15 °C a 30 °C). Este medicamento é válido por 24 meses a partir da data de
+fabricação.
+
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+
+TREV 50 mg é um comprimido oblongo revestido, sem vinco de cor rosa claro.
+
+Antes de usar, observe o aspecto do medicamento.
+
+Todo medicamento deve ser mantido fora do alcance das crianças.
+
+8. POSOLOGIA E MODO DE USAR
+O TREV pode ser tomado com ou sem alimentos.
+
+Tratamento da doença do refluxo gastroesofágico erosiva
+ − 50 mg uma vez ao dia durante 4 semanas. Para pacientes que não cicatrizam ou apresentam sintomas persistentes após
+    4 semanas de tratamento, um tratamento adicional de 4 semanas pode ser considerado.
+
+Tratamento da doença do refluxo gastroesofágico não erosiva
+ − 50 mg uma vez ao dia durante 4 semanas.
+Bula_Profissional_tegoprazana_com_rev
+
+Tratamento da úlcera gástrica
+ − 50 mg uma vez ao dia durante 8 semanas.
+
+
+Populações especiais
+
+População pediátrica
+A segurança clínica e a eficácia do TREV em pacientes pediátricos e adolescentes não foram estabelecidas.
+
+Idosos
+Devido à diminuição das funções fisiológicas, o TREV deve ser administrado com cautela em pacientes idosos.
+
+Insuficiência renal
+A segurança clínica e a eficácia de TREV em pacientes com insuficiência renal não foram estabelecidas.
+
+Insuficiência hepática
+A segurança clínica e a eficácia de TREV em pacientes com insuficiência hepática não foram estabelecidas. Considerando que
+a tegoprazana é metabolizada predominantemente no fígado, o medicamento deve ser administrado com cautela nesses
+pacientes.
+
+Este medicamento não deve ser partido, aberto ou mastigado.
+
+9. REAÇÕES ADVERSAS
+Cinco estudos clínicos foram conduzidos em pacientes com doença do refluxo gastroesofágico erosiva, doença do refluxo
+gastroesofágico não erosiva e úlcera gástrica. Trezentos e sessenta pacientes foram tratados com tegoprazana 50 mg.
+As reações adversas ao medicamento observadas nos estudos clínicos estão apresentadas na Tabela 6, de acordo com a
+terminologia em português do MedDRA versão 29.0, organizadas por Classe de Sistema de Órgãos, categoria de frequência
+e indicação. Dentro de cada Classe de Sistema de Órgãos, as categorias são apresentadas da maior para a menor frequência.
+Dentro de cada categoria de frequência, as reações adversas são apresentadas em ordem decrescente de gravidade clínica,
+quando aplicável, com base em avaliação médica.
+As categorias de frequência são definidas como: reação muito comum (> 1/10); reação comum (> 1/100 e < 1/10); reação
+incomum (> 1/1.000 e < 1/100); reação rara (> 1/10.000 e < 1/1.000); reação muito rara (< 1/10.000).
+
+Nos estudos clínicos descritos, não foram identificadas RAMs classificadas como raras ou muito raras.
+
+Tabela 6. Reações adversas ao medicamento observadas nos estudos clínicos
+     Classe de Sistema de Órgãos (SOC) do           Frequência     DRGE erosiva, DRGE não erosiva e úlcera gástrica
+   MedDRA                                                   Tegoprazana 50 mg
+     Distúrbios gastrointestinais                    Muito comum                -
+
+     Distúrbios gastrointestinais                Comum              Diarreia; náusea; dispepsia.
+     Distúrbios gastrointestinais                  Incomum           Melena; úlcera gástrica; duodenite erosiva; hemorragia anal; dor abdominal
+                                                                                        superior; dor abdominal; doença do refluxo gastroesofágico; desconforto
+                                                                             abdominal; constipação; pólipos gástricos; distensão abdominal; flatulência.
+     Infecções e infestações                      Incomum            Infecção viral das vias aéreas superiores; nasofaringite; foliculite
+     Distúrbios gerais e quadros clínicos no local de  Comum             Desconforto torácico.
+     administração
+     Distúrbios gerais e quadros clínicos no local de   Incomum            Fadiga.
+     administração
+     Investigações                             Incomum           Alanina aminotransferase aumentada; aspartato aminotransferase aumentada;
+                                                                               elevação da creatina fosfoquinase; bilirrubina sanguínea aumentada; presença de
+                                                                           sangue na urina; sangue na urina positivo; gama-glutamiltransferase aumentada;
+                                                                                            triglicerídeos no sangue aumentados; gastrina no sangue aumentada.
+     Distúrbios musculoesqueléticos e do tecido       Incomum            Tendinite; mialgia.
+     conjuntivo
+     Distúrbios do sistema nervoso              Comum                 -
+     Distúrbios do sistema nervoso                Incomum             Cefaleia.
+     Distúrbios dos tecidos cutâneos e subcutâneos    Incomum           Dermatite seborreica.
+     Distúrbios respiratórios, torácicos e do         Incomum            Tosse.
+     mediastino
+     Distúrbios do sistema reprodutor e da mama     Incomum             Calcificações da mama.
+     Distúrbios renais e urinários                 Incomum            Noctúria.
+     Neoplasias benignas, malignas e não           Incomum         Adenoma do trato gastrointestinal.
+     especificadas (incluindo cistos e pólipos)
+     Distúrbios cardíacos                        Incomum             Extrassístoles ventriculares.
+     Distúrbios do sangue e do sistema linfático       Incomum          Anemia; linfadenite.
+    Transtornos psiquiátricos                   Incomum             Insônia.
+     Distúrbios do ouvido e do labirinto            Incomum          Dor de ouvido.
+     Distúrbios endócrinos                      Incomum            Cisto da tireoide.
+     Distúrbios vasculares                       Incomum               -
+     Distúrbios oculares                        Incomum               -
+
+Bula_Profissional_tegoprazana_com_rev
+
+Atenção: este produto é um medicamento novo e, embora as pesquisas tenham indicado eficácia e segurança
+aceitáveis, mesmo que indicado e utilizado corretamente, podem ocorrer eventos adversos imprevisíveis ou
+desconhecidos. Nesse caso, notifique os eventos adversos pelo Sistema VigiMed, disponível no Portal da Anvisa.
+
+10. SUPERDOSE
+Não houve relatos de sobredosagem significativa com a tegoprazana. Em ensaios clínicos, houve casos em que até 400 mg
+deste medicamento foram administrados a adultos saudáveis. No caso de superdose com TREV, os pacientes devem ser
+monitorados quanto a sintomas de intoxicação e o tratamento deve ser de suporte, se necessário.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+
+
+
+
+
+Bula_Profissional_tegoprazana_com_rev
+
+  DIZERES LEGAIS
+
+   Registro: 1.0043.1615
+
+  VENDA SOB PRESCRIÇÃO.
+
+
+  Esta bula foi aprovada pela ANVISA em xx/xx/xxxx.
+
+   Registrado por:
+  EUROFARMA LABORATÓRIOS S.A.
+  Avenida Vereador José Diniz, 3465, 18º andar, Edifício Viva, Santo Amaro, São Paulo/SP
+  CEP 04603-903. CNPJ: 61.190.096/0001-92
+   Indústria Brasileira
+
+  Produzido por:
+  EUROFARMA LABORATÓRIOS S.A.
+  Rodovia Presidente Castelo Branco, n° 3565, km 35,6 - Itaqui - Itapevi - SP – Brasil
+
+
+
+
+
+Bula_Profissional_tegoprazana_com_rev
+
+                                            Histórico de Alteração da Bula
+
+          Dados da submissão eletrônica                 Dados da petição/notificação que altera bula                 Dados das alterações de bulas
+                                                                                                                                                                    Versões (VP/         ApresentaçõesData do expediente    No do expediente         Assunto        Data do expediente    No do expediente          Assunto        Data de aprovação        Itens de bula
+                                                                                                                                                    VPS)               relacionadas

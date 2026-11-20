@@ -1,0 +1,41 @@
+EUROFARMA — GAME OFFLINE
+
+COMO ABRIR
+1. Extraia a pasta inteira do ZIP para o computador do totem.
+2. Abra index.html no Chrome ou Microsoft Edge.
+3. Use F11 para entrar/sair da tela cheia no Windows.
+4. Configure o monitor em orientação vertical. O layout se ajusta à tela mantendo 1080 × 1920 como base.
+
+Não requer internet, servidor, instalação de bibliotecas, conta ou chave de API.
+Mantenha index.html, os arquivos JS/CSS e as pastas assets e minibulas juntos.
+
+FLUXO
+Começar → 5 perguntas → tela final → Concluir → home.
+Cada partida inclui os 5 produtos uma única vez, em ordem aleatória.
+Cada produto tem 4 perguntas; uma delas é sorteada a cada partida.
+O participante escreve com o dedo, caneta ou mouse; pode desfazer ou limpar.
+Enviar receita fica disponível após o primeiro traço.
+O envio revela somente o logo correspondente, sem reconhecer, corrigir ou pontuar a escrita.
+Próxima pergunta continua a partida. Após o quinto logo, Concluir desafio abre a tela final.
+As receitas ficam apenas na memória durante a interação. Não são gravadas nem enviadas.
+Recarregar a página retorna à home e descarta a partida atual.
+
+MINIBULAS
+LacBi 5, LacBi Imune e Ésio: texto com rolagem e PDF local.
+DOZI: minibula com rolagem. Trev: bula profissional completa de 12 páginas, com ampliação.
+As perguntas foram transcritas do briefing fornecido, sem revisão médica ou alteração das afirmações.
+
+MANUTENÇÃO
+questions.js: produtos e as 20 perguntas.
+leaflets.js: textos das minibulas e caminhos para os PDFs locais.
+assets/: logos e receituário.
+minibulas/: documentos originais.
+game.js: sorteio, fluxo, escrita e consulta.
+styles.css: apresentação e ajuste à tela.
+Os SVGs são fundos extraídos do layout aprovado; os componentes interativos ficam no HTML/JS.
+
+VALIDAÇÃO
+Testado no Chrome sem conexão de rede, com mouse e toque emulado.
+Verificados: partida completa, 5 produtos sem repetição, revelação do logo correspondente,
+sorteio entre as 20 perguntas, limpar/desfazer, retorno à home e consulta às 5 abas.
+Teste final no equipamento físico deve confirmar calibração do toque e orientação do monitor.
